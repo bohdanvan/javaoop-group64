@@ -8,10 +8,9 @@ import java.util.StringJoiner;
  */
 public class DynamicArray {
 
-    int[] elems;
-    int size = 0;
-    double growFactor;
-
+    private int[] elems;
+    private int size = 0;
+    private final double growFactor;
 
     public DynamicArray(int initSize, double aGrowFactor) {
         elems = new int[initSize];

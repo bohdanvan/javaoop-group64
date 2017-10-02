@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class RepeatableReader {
 
-    Scanner scanner;
+    private final Scanner scanner;
 
     public RepeatableReader(InputStream inputStream) {
         this.scanner = new Scanner(inputStream);
