@@ -32,7 +32,7 @@ public class SimpleInputExample {
      * @throws IOException
      */
     private static String readMessageFromFile(String fileName) throws IOException {
-        // try-with-resources
+        // try-with-resources (Java 7)
         try (BufferedReader reader = new BufferedReader(new FileReader(fileName))) {
             return reader.readLine();
         }

@@ -23,6 +23,8 @@ Prog.kiev.ua. Java OOP. Группа 64
 
 [Java OOP. Богдан. Группа 64. Лекция 10 (01.11.2017)](https://prog.kiev.ua/forum/index.php/topic,3245.0.html)
 
+[Java OOP. Богдан. Группа 64. Лекция 11 (06.11.2017)](https://prog.kiev.ua/forum/index.php/topic,3256.0.html)
+
 ## Видео/аудио лекций другой группы
 
 [Видеозапись лекций](https://mega.nz/#F!fI9ACBqB)
